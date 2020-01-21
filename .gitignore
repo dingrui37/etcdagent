@@ -1,0 +1,4 @@
+vendor
+*.a
+*.so
+*.log
